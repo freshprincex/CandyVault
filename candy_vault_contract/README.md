@@ -1,7 +1,6 @@
-# Simple decentralized Application - A Candy Vault.
+# Simple decentralized Application - A Candy Vault Contract.
 
-This project demonstrates a simple decentralized application with a smart contract built with solidity.
+This contract is built with solidity and deployed on the Ethereum Sepolia Testnet.
 
-The Application updates the state balance of Total candies available as users interact by purchasing candies.
+The Contract updates the state balance of Total candies available as users interact by purchasing candies with a value of 0.01 Ether. 
 
-CONTRACT ADDRESS 0x5FbDB2315678afecb367f032d93F642f64180aa3
